@@ -15,7 +15,7 @@ Description: This SQL project uses the WSDA Music database to uncover a discrepa
 
 ------------------------
        CONTENTS:
-Line 27 - High-level overciew of data
+Line 27 - High-level overview of data
 Line 54 - Exploring customers and employee records
 Line 190 - Looking into highest-commissioned employee
 Line 282 - Conclusion
