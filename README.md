@@ -43,3 +43,16 @@ The WSDA Music database can be downloaded from Walter Shield's LinkedIn Learning
 * Discovered the highest yearly transaction total average was in 2011 at $17.51, more than 3x the averages in other years
 * Compared employee commissions, identifying Jane Peacock with the highest commissions at $199.77
 * Uncovered a suspicious customer with null fields and spending $1000.86, suggesting the record may be fabricated
+
+### 📸 Screenshots
+Table of customer and employee records:  
+![Table of customer and employee records](/screenshots/customer_employee_analysis.png)
+
+Table of yearly transaction averages:  
+![Table of yearly transaction averages](/screenshots/yearly_transaction_averages.png)
+
+Table of employees and their total commissions between 2011-2012:  
+![Table of employees and their total commissions.](/screenshots/highest_commissions.png)    
+
+Record of suspicious customer:  
+![Record of suspicious customer with null fields](/screenshots/suspicious_customer.png)  
