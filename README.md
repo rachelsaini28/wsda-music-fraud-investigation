@@ -45,7 +45,7 @@ The WSDA Music database can be downloaded from Walter Shield's LinkedIn Learning
 * Uncovered a suspicious customer with null fields and spending $1000.86, suggesting the record may be fabricated
 
 ### 📸 Screenshots
-Table of customer and employee records:  
+Sample of customer and employee records:  
 ![Table of customer and employee records](/screenshots/customer_employee_analysis.png)
 
 Table of yearly transaction averages:  
@@ -53,6 +53,3 @@ Table of yearly transaction averages:
 
 Table of employees and their total commissions between 2011-2012:  
 ![Table of employees and their total commissions.](/screenshots/highest_commissions.png)    
-
-Record of suspicious customer:  
-![Record of suspicious customer with null fields](/screenshots/suspicious_customer.png)  
